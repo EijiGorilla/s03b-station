@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunks03b_station=self.webpackChunks03b_station||[]).push([[29067],{29067:(t,e,s)=>{s.d(e,{K:()=>n});const n={type:String,json:{read:{source:"token"},write:{target:"token"}}}}}]);
+//# sourceMappingURL=29067.ff15403b.chunk.js.map
